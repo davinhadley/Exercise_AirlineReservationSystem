@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deitel_AirlineReservationSystem", "Deitel_AirlineReservationSystem\Deitel_AirlineReservationSystem.csproj", "{3AA399D4-8B60-4269-9B1F-4698C6CC68BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AA399D4-8B60-4269-9B1F-4698C6CC68BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA399D4-8B60-4269-9B1F-4698C6CC68BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA399D4-8B60-4269-9B1F-4698C6CC68BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA399D4-8B60-4269-9B1F-4698C6CC68BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {423FEAA6-8BE4-4B99-8E9E-824291311404}
+	EndGlobalSection
+EndGlobal
